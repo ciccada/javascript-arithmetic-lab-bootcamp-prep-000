@@ -27,8 +27,5 @@ function dec(a){
 }
 
 function makeInt(n){
-  if (n === a.toString()){
-    return a.parseInt()
-  } else {
-    return "returns NaN as appropriate";
-  }
+    return parseInt()
+  } 
